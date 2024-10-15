@@ -1,0 +1,29 @@
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
+body {
+  font-family: "Berkeley Mono", monospace;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  max-width: 80ch;
+  overflow-wrap: break-word;
+}
+
+pre {
+  overflow-x: scroll;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+time {
+  text-wrap: nowrap;
+}
