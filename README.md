@@ -1,2 +1,6 @@
-## info  
-hosted on github pages
+# yuri.chernushenko.com
+
+my website  
+
+## deploy  
+github pages
